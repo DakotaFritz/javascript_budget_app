@@ -1,0 +1,123 @@
+[
+
+    {
+    "family": "Giving",
+    "value": "Giving",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Giving",
+    "value": "Hospitality",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Rent",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Water",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Electricity",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Trash",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Laundry",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Housing",
+    "value": "Home Improvement",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Transportation",
+    "value": "Gas",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Transportation",
+    "value": "TARC",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Transportation",
+    "value": "Car Maintenance",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Transportation",
+    "value": "Tolls",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Food",
+    "value": "Groceries",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Food",
+    "value": "Restaurants",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Food",
+    "value": "Coffee and Alcohol",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Personal",
+    "value": "Dates",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Personal",
+    "value": "Fun Money",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Personal",
+    "value": "Home and Hygiene",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Bills",
+    "value": "Medical Bills",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Bills",
+    "value": "Car Insurance",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Bills",
+    "value": "Cell Phone",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Bills",
+    "value": "Internet",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Debt",
+    "value": "Student Debt",
+    "budgetedAmt": ""
+    },
+    {
+    "family": "Debt",
+    "value": "Credit Card",
+    "budgetedAmt": ""
+    }
+]
